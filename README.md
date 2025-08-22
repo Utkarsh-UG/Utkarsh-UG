@@ -29,7 +29,7 @@
 [<img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.mysql.com/)
 [<img align="left" alt="Java" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>](https://www.java.com/)
 [<img align="left" alt="Spring Boot" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>](https://spring.io/projects/spring-boot)
-[<img align="left" alt="AWS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>](https://aws.amazon.com/)
+[<img align="left" alt="AWS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="GitHub" width="34px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />](https://github.com/)
 
 
