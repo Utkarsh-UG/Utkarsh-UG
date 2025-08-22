@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java and Generative AI.
 - 🤔 I’m looking for help with scalable automation and deployment.
 - 💬 Ask me about Full-Stack Development and Cloud Solutions.
-- 📫 How to reach me: utkarshgupta933@gmail.com
+- 📫 How to reach me: utkarshgupta933@outlook.com
 - ⚡ Fun fact: There is no place like 127.0.0.1
 
 
